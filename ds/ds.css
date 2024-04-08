@@ -37,7 +37,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    gap: 15px
+    gap: 15px;
     text-align: center !important;
 }
 
