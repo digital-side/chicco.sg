@@ -166,3 +166,8 @@
 /*.icon-location:before {*/
 /*    content: "\e947";*/
 /*}*/
+
+.animation {
+    height: 325px;
+    width: auto;
+}
