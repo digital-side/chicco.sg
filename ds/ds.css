@@ -123,7 +123,8 @@
     border-color: #534931
 }
 .page_cover {
-    background: url(img/menu-header-background-2.jpg) center / cover no-repeat;
+    /*background: url(img/menu-header-background-2.jpg) center / cover no-repeat;*/
+    background: url(img/menu-home.jpg) center / cover no-repeat;
 }
 
 @media screen and (min-width: 1023.98px)
