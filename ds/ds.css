@@ -56,7 +56,7 @@
 .menu_tab-list_item .branch_separator {
     border-bottom: 1px solid #ccc;
 }
-.backg_image {
+.bg_flower {
     background-image: url("img/flower.svg");
     background-size: 25px 25px;
     background-repeat: repeat;
