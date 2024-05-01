@@ -56,6 +56,11 @@
 .menu_tab-list_item .branch_separator {
     border-bottom: 1px solid #ccc;
 }
+.backg_image {
+    background-image: url("img/flower.svg");
+    background-size: 25px 25px;
+    background-repeat: repeat;
+}
 
 /*.menu_tab-list_item .btn {*/
 /*    text-transform: uppercase;*/
